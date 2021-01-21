@@ -61,7 +61,7 @@
 ## Getting Started ##
 
 <ol>
-    <li>git clone <a href="https://github.com/orkunozekin/Ember-App.git"></li>
+    <li>git clone <a href="https://github.com/orkunozekin/Ember-App.git"></a></li>
     <li>Run the Spring MVC on a Tomcat Server in your workspace</li>
     <li>Start the React Application with "npm start"</li>
 </ol>
