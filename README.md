@@ -4,6 +4,16 @@
 
 <hr>
 
+## Application Developers ##
+
+<ul>
+    <li>Orkun Ozekin</li>
+    <li>Cody Moody</li>
+    <li>Sonali Martinez</li>
+    <li>Corbin Creedon</li>
+    <li>Tim Hammes</li>
+</ul>
+
 ## Technologies Utilized ##
 <ul>
     <li>Spring</li>
