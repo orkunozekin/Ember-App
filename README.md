@@ -50,7 +50,18 @@
 
 ## Getting Started ##
 
-<ul>
-    <li>git clone </li>
-</ul>
+<ol>
+    <li>git clone <a href="https://github.com/orkunozekin/Ember-App.git"></li>
+    <li>Run the Spring MVC on a Tomcat Server in your workspace</li>
+    <li>Start the React Application with "npm start"</li>
+</ol>
+
+<hr>
+
+## Usage ##
+
+<ol>
+    <li>Register a new account by clicking "Don't have an account?" on the landing page</li>
+    <li>Enjoy the application by creating new posts and interacting with your connections' posts</li>
+</ol>
 
